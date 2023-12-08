@@ -6477,7 +6477,7 @@ body {
 }
 
 .header {
-  background-color: rgb(172, 167, 167);
+  background-color: rgb(208, 203, 203);
   border-bottom: 4px solid #827c80;
 }
 
@@ -6526,7 +6526,7 @@ p {
   display: flex;
   justify-content: space-between;
   border-top: 4px solid #827c80;
-  background-color: rgb(172, 167, 167);
+  background-color: rgb(208, 203, 203);
   padding: 3rem 6rem;
 }
 
